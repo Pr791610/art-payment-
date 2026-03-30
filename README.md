@@ -34,6 +34,7 @@ https://photos.app.goo.gl/ohFwwKX7voCLcjr58
 👉 Gallery 5  
 https://photos.app.goo.gl/yQ3mzfcGpuefnuyZA  
 
+
 ---
 
 ## 📄 Certificates System
@@ -49,7 +50,7 @@ Each artwork includes:
 
 ## 🔳 QR Code System
 
-### 📚 Full Book Access
+### 📚 Full Book https://photos.app.goo.gl/6tTNSAjKrMZGoqGWAAccess
 Scan to view full 500-page documentation  
 👉 (ADD LINK)
 
