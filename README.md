@@ -47,7 +47,7 @@ Each artwork includes:
 
 ## 🔳 QR Code System
 
-### 📚 Full Book https://photos.app.goo.gl/6tTNSAjKrMZGoqGWAAccess
+### 📚 Full Book https://photos.app.goo.gl/6tTNSAjKrMZGoqGWA
 Scan to view full 500-page documentation  
 👉 (ADD LINK)
 
